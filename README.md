@@ -6,11 +6,9 @@
 
 ## Usage
 This is intended to replace the official electron header mirror.
-Set the disturl when installing packages to `https://github.com/gitkraken/custom-electron-headers/raw/master`
+Set the disturl when installing packages to `https://github.com/gitkraken/custom-electron-headers/raw/dist`
 
 This doesn't include all electron versions, just the ones we're using
-
-### yarn
 
 ## Adding new header versions
 probably doesn't work on windows, not sure about mac
